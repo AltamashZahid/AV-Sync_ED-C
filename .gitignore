@@ -1,0 +1,7 @@
+# videos and generated files stay local
+data/
+work/
+results/*.mp4
+__pycache__/
+*.pyc
+models/

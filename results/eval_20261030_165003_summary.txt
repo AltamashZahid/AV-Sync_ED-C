@@ -1,0 +1,13 @@
+shift   MAE raw   MAE calib  within 40ms  after fix
+   -300    191.3ms     110.9ms          82%     110.9ms
+   -200    134.2ms      53.8ms          91%      53.8ms
+   -120    130.2ms      49.8ms          91%      49.8ms
+    -80     80.4ms       0.1ms         100%       0.1ms
+    -40     80.4ms       0.2ms         100%       0.2ms
+     +0     80.4ms       0.0ms         100%       0.0ms
+    +40     80.5ms       0.1ms         100%       0.1ms
+    +80     80.4ms       0.2ms         100%       0.2ms
+   +120     80.4ms       0.1ms         100%       0.1ms
+   +200     80.4ms       0.1ms         100%       0.1ms
+   +300     80.5ms       0.1ms         100%       0.1ms
+All: calibrated MAE 19.6 ms, median 0.1 ms, within 40 ms 97% (11 clips x 11 shifts)
